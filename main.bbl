@@ -21,16 +21,58 @@
 \providecommand{\BIBdecl}{\relax}
 \BIBdecl
 
-\bibitem{2023Bhawal-SST}
-S.~Bhawal, H.~Patel, K.~Hatua, K.~Vasudevan, and S.~Bhattacharya, ``Solid state
-  transformer based on naturally cell balanced series resonant converter with
-  cascaded h-bridge cells switched at grid frequency,'' \emph{IEEE Transactions
-  on Power Electronics}, pp. 1--14, 2023.
+\bibitem{INAMHS2022}
+{Center for Reproductive Health}, {University of Queensland}, and {Johns
+  Hopkins Bloomberg School of Public Health}, ``Indonesia - national adolescent
+  mental health survey (i-namhs): Laporan penelitian,'' Pusat Kesehatan
+  Reproduksi, Yogyakarta, Indonesia, Tech. Rep., 2022, edisi pertama, Oktober
+  2022.
 
-\bibitem{2023Chen-Phase-Shift-DAB}
-R.~Chen, C.~Li, C.~Li, H.~Fang, R.~Lu, W.~Yao, W.~Li, and X.~He, ``Phase-shift
-  angle segmentation modulation for soft-switching medium voltage dab converter
-  with series-connected sic mosfets,'' \emph{IEEE Transactions on
-  Transportation Electrification}, pp. 1--1, 2023.
+\bibitem{WHO2022MentalHealth}
+{World Health Organization}, \emph{World mental health report: transforming
+  mental health for all}.\hskip 1em plus 0.5em minus 0.4em\relax Geneva: World
+  Health Organization, 2022, licence: CC BY-NC-SA 3.0 IGO. Available:
+  https://www.who.int/publications/i/item/9789240049338.
+
+\bibitem{CBTWoebotTest}
+\BIBentryALTinterwordspacing
+K.~K. Fitzpatrick, A.~Darcy, and M.~Vierhile, ``Delivering cognitive behavior
+  therapy to young adults with symptoms of depression and anxiety using a fully
+  automated conversational agent (woebot): A randomized controlled trial,''
+  \emph{JMIR Ment Health}, vol.~4, no.~2, p. e19, Jun 2017. [Online].
+  Available: \url{http://mental.jmir.org/2017/2/e19/}
+\BIBentrySTDinterwordspacing
+
+\bibitem{Lewis2021RAGKnowledgeIntensiveNLP}
+\BIBentryALTinterwordspacing
+P.~Lewis, E.~Perez, A.~Piktus, F.~Petroni, V.~Karpukhin, N.~Goyal, H.~Küttler,
+  M.~Lewis, W.~tau Yih, T.~Rocktäschel, S.~Riedel, and D.~Kiela,
+  ``Retrieval-augmented generation for knowledge-intensive nlp tasks,'' 2021.
+  [Online]. Available: \url{https://arxiv.org/abs/2005.11401}
+\BIBentrySTDinterwordspacing
+
+\bibitem{Edge2025LocalGlobalGraphRAG}
+\BIBentryALTinterwordspacing
+D.~Edge, H.~Trinh, N.~Cheng, J.~Bradley, A.~Chao, A.~Mody, S.~Truitt,
+  D.~Metropolitansky, R.~O. Ness, and J.~Larson, ``From local to global: A
+  graph rag approach to query-focused summarization,'' 2025. [Online].
+  Available: \url{https://arxiv.org/abs/2404.16130}
+\BIBentrySTDinterwordspacing
+
+\bibitem{Weizenbaum1966ELIZA}
+J.~Weizenbaum, ``Eliza—a computer program for the study of natural language
+  communication between man and machine,'' \emph{Communications of the ACM},
+  vol.~9, no.~1, pp. 36--45, 1966.
+
+\bibitem{yu2024FineTuneOnMentalHealthChatbotExperimental}
+H.~Yu and S.~McGuinness, ``An experimental study of integrating fine-tuned llms
+  and prompts for enhancing mental health support chatbot system,''
+  \emph{Journal of Medical Artificial Intelligence}, pp. 1--16, 2024.
+
+\bibitem{es2024ragas}
+S.~Es, J.~James, L.~E. Anke, and S.~Schockaert, ``Ragas: Automated evaluation
+  of retrieval augmented generation,'' in \emph{Proceedings of the 18th
+  Conference of the European Chapter of the Association for Computational
+  Linguistics: System Demonstrations}, 2024, pp. 150--158.
 
 \end{thebibliography}
